@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Mi nombre es Juan Pedro Demarco, estudiante de ingenieria informatica en la UBA.
