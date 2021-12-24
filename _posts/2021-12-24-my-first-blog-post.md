@@ -1,5 +1,5 @@
 ---
-title: SOY SPIDERMAN
+title: " SOY SPIDERMAN "
 date: 2021-12-24
 ---
 
